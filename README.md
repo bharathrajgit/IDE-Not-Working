@@ -1,4 +1,4 @@
-# IDE-Not-Working Server npx not stating working
+# IDE-Not-Working Server npx not stating.
 
 In this project, let's build a **Super Over League** by applying the concepts we have learned till now.
 
